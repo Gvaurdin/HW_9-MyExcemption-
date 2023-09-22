@@ -1,0 +1,6 @@
+C2CY|Candy|Snikers|0,1|50,5|10|USA|2023,9,20|2024,9,20
+D4CY|Detergent|Fairy|1,8|198,7|20|Germany|2023,5,6|2025,5,6
+B1CY|Sunflower oil|Sloboda|0,9|140,5|10|Russia|2023,5,20|2024,5,20
+M3CY|Milk|Prostokvashino|0,9|120,5|10|Russia|2023,9,21|2023,10,5
+L5CY|Washing powder|Tide|0,5|150,5|30|Germany|2023,1,1|2025,10,5
+S6CY|Floor cleaning agent|Mr.Proper|1,0|215,3|20|USA|2023,5,23|2025,5,23
